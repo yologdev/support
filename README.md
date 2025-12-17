@@ -1,4 +1,4 @@
-# Yolog Support
+# yolog.dev support
 
 Welcome to the official support repository for [yolog](https://yolog.dev).
 
